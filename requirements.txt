@@ -1,0 +1,4 @@
+requests>=2.31.0
+minecraft-launcher-lib>=4.7
+Pillow>=10.0.0
+pypresence>=4.5.0
